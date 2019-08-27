@@ -1,3 +1,11 @@
+https://www.thethingsnetwork.org/
+
+https://librerouter.org/the-librerouter-is-almost-out-who-wants-one/
+
+https://blog.hackster.io/how-to-create-your-own-home-automation-gateway-for-your-iot-devices-1f02d8ea3012
+the GL-MT300N-V2
+
+https://blog.hackster.io/google-releases-cloud-iot-device-sdk-for-microcontrollers-20a239ad09b6
 
 https://www.brainium.com/about
 
@@ -8,3 +16,5 @@ http://www.electronics-lab.com/project/nodemcu-esp8266-webserver-tutorial/
 https://blog.hackster.io/machine-learning-for-creators-d420f9e592e3
 
 https://phoneboard.co/
+
+TensorCam
